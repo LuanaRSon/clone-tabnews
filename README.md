@@ -1,2 +1,3 @@
 # clone-tabnews
-Um projeto para praticar 
+
+Um projeto para praticar
